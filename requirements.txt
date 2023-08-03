@@ -4,3 +4,10 @@ requests==2.31.0
 rich==13.4.2
 telegram==0.0.1
 user-agent==0.1.10
+random
+string
+MessageLoop
+telepot.loop
+InlineKeyboardMarkup
+InlineKeyboardButton
+telepot.namedtuple

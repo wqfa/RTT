@@ -7,7 +7,7 @@ from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 # توليد ايميل عشوائي من 10 أحرف
 def generate_random_email():
     characters = string.ascii_lowercase + string.digits
-    email = ''.join(random.choices(characters, k=10)) + "@example.com"
+    email = ''.join(random.choices(characters, k=10)) + "@gmail.com"
     return email
 
 # توليد كلمة مرور عشوائية من 8 أحرف
